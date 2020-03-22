@@ -1,0 +1,6 @@
+D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/CMakeFiles/Algorithums_final.dir
+D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/CMakeFiles/Read_test.dir
+D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/CMakeFiles/Write_test.dir
+D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/CMakeFiles/stringListTest.dir
+D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/CMakeFiles/edit_cache.dir

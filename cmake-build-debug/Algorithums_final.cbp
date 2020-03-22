@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Algorithums_final"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithums_final">
+				<Option output="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Algorithums_final.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Sources"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Header"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Other"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithums_final"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithums_final/fast">
+				<Option output="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Algorithums_final.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Sources"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Header"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Other"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithums_final/fast"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Read_test">
+				<Option output="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Read_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Sources"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Header"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Other"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 Read_test"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Read_test/fast">
+				<Option output="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Read_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Sources"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Header"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Other"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 Read_test/fast"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Write_test">
+				<Option output="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Write_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Sources"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Header"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Other"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 Write_test"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Write_test/fast">
+				<Option output="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Write_test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Sources"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Header"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Other"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 Write_test/fast"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stringListTest">
+				<Option output="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/stringListTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Sources"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Header"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Other"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 stringListTest"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stringListTest/fast">
+				<Option output="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/stringListTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Sources"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Header"/>
+					<Add directory="D:/Galen/Programming/C/Algorithums_final/Other"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="d:\programing\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 stringListTest/fast"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Galen/Programming/C/Algorithums_final/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programing/MinGW/bin/mingw32-make.exe -f &quot;D:/Galen/Programming/C/Algorithums_final/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/Header/data_store.h">
+			<Option target="Algorithums_final"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/Header/list.h">
+			<Option target="Algorithums_final"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/Sources/functions.c">
+			<Option target="Algorithums_final"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/Sources/linkedList.c">
+			<Option target="Algorithums_final"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/Sources/main.c">
+			<Option target="Algorithums_final"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/Sources/read_file.c">
+			<Option target="Read_test"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/Sources/write_in.c">
+			<Option target="Write_test"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/strLinkeListTest.c">
+			<Option target="stringListTest"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/strList.c">
+			<Option target="Algorithums_final"/>
+			<Option target="stringListTest"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/strList.h">
+			<Option target="Algorithums_final"/>
+			<Option target="stringListTest"/>
+		</Unit>
+		<Unit filename="D:/Galen/Programming/C/Algorithums_final/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
